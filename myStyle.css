@@ -1,0 +1,104 @@
+
+#wrapper{
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#headtitle{
+	width: 300px;
+	position: relative;
+	left: 100px;
+	top: -100px;
+}
+
+#headRight{
+	width: 300px;
+	position: absolute;
+	left: 800px;
+	top: -17px;	
+}
+
+#features{
+	position: absolute;
+	top: 25px;
+	left: 140px;
+}
+
+.up{
+	position: absolute;
+	top: -1px;
+}
+
+.rup{
+	position: relative;
+	top: -15px;
+}
+
+#access{
+	width: 880px;
+	height: 40px;
+	background-color: #0099ff;
+	position: absolute;
+	top: 110px;
+	border-radius: 5px;
+}
+
+#profileNav{
+
+}
+
+#profileNav ul{
+	float: right;
+	position: relative;
+	left: -5px;
+}
+
+#profileNav ul li{
+	list-style: none;
+	display: inline;
+}
+
+#profileNav ul li a{
+	text-decoration: none;
+	color: white;
+}
+
+#table{
+	border: 1px solid black;
+}
+
+.officeth{
+	border: 1px solid black;
+	padding: 10px;
+}
+
+.patrOneth{
+	border: 1px solid black;
+	padding: 10px;
+}
+
+.staff{
+	text-align: center;
+}
+
+.left{
+	border-left: 1px solid black;
+}
+
+.general{
+	border-top: 1px solid black;
+}
+
+
+#eis_footer{
+	/*border-top: 1px solid #09F;*/
+	width: 880px;
+	height: 30px;
+	margin-top: 30px;
+	background-color: #0099ff;
+	padding-top: 3px;
+	color: white;
+	border-radius: 5px;
+
+}

@@ -1,0 +1,193 @@
+#pageWrapper{
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#logo{
+	
+}
+
+#headtitle{
+	width: 300px;
+	position: relative;
+	left: 100px;
+	top: -100px;
+}
+
+#headRight{
+	width: 300px;
+	position: absolute;
+	left: 800px;
+	top: -17px;	
+}
+
+#features{
+	position: absolute;
+	top: 25px;
+	left: 140px;
+}
+
+.up{
+	position: absolute;
+	top: -1px;
+}
+
+.rup{
+	position: relative;
+	top: -15px;
+}
+
+#nav{
+	width: 400px;
+}
+
+#nav ul{
+	position: relative;
+	top: -55px;
+	left: 50px;
+
+
+}
+
+#access{
+	width: 880px;
+	height: 40px;
+	background-color: #0099ff;
+	position: absolute;
+	top: 110px;
+	border-radius: 5px;
+}
+
+#loggin{
+	position: relative;
+	top: 7px;
+}
+
+
+#eb_right .ebr_f:hover{background-color:#EEE; text-shadow:1px 0px 1px #FFF;}
+#eis_home{overflow:auto;}
+#eis_home #eih_left{float:left; width:650px; padding-right:10px; border-right:1px solid #CCC;}
+#eis_home #eih_right{margin-left:660px; padding-left:10px;}
+#eis_home #eih_left {overflow:auto;}
+#eis_home #eih_left {margin:0px; padding:0px;}
+#eis_home #eih_left {list-style-type:none; float:left; width:315px; margin:4px; min-height:450px; border:1px solid #DDD;}
+#eis_home #eih_left {font-size:large; padding:10px; background-color:#EEE; text-transform:uppercase; text-shadow:1px 0px 1px #FFF; color:#006; font-weight:bold;}
+#eis_home #eih_left {padding:10px;}
+
+/* Footer Styles */
+#eis_footer{
+	/*border-top: 1px solid #09F;*/
+	width: 880px;
+	height: 30px;
+	margin-top: 30px;
+	background-color: #0099ff;
+	padding-top: 3px;
+	color: white;
+	border-radius: 5px;
+
+}
+
+#fname{
+	position: relative;
+	left: 35px;
+}
+
+#lname{
+	position: relative;
+	left: 40px;
+}
+
+#matno{
+	position: relative;
+	left: 40px;
+}
+
+#uname{
+	position: relative;
+	left: 40px;
+}
+
+#pword{
+	position: relative;
+	left: 42px;
+}
+
+#dob{
+	position: relative;
+	left: 20px;
+}
+
+#option{
+	position: relative;
+	left: 65px;
+}
+
+#level{
+	position: relative;
+	left: 70px;
+}
+
+#reg{
+	position: relative;
+	left: 150px;
+}
+
+
+
+/*Profile Styles*/
+#profileWrapper{
+	width: 70%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#profileNav{
+
+}
+
+#profileNav ul{
+	float: right;
+	position: relative;
+	left: -5px;
+}
+
+#profileNav ul li{
+	list-style: none;
+	display: inline;
+}
+
+#profileNav ul li a{
+	text-decoration: none;
+	color: white;
+}
+
+#mainContent{
+
+}
+
+#ppix{
+	float: left;
+	padding: 10px;
+	width: 300px;
+	height: 200px;
+}
+
+#pdetails{
+	float: left; 
+}
+
+.clearfix{
+	clear: both;
+} 
+
+#logout{
+	position: relative;
+	top: -50px;
+	float: right;
+	padding-right: 5px;
+}
+
+.adminfield{
+	width: 800px;
+}
